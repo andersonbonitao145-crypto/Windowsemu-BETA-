@@ -1,0 +1,18 @@
+
+[Theme]
+
+
+; Recycle Bin
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+full=%SystemRoot%\SYSTEM32\shell32.dll,32
+empty=%SystemRoot%\SYSTEM32\shell32.dll,31
+
+
+[VisualStyles]
+Path=%ResourceDir%\Themes\test\test.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+ThemeColorBPP=4
